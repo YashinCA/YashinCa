@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Yashin Illich</h1>
-<h3 align="center">A passionate learner of programming, I am from Chile and I am constantly learning different programming languages, frameworks, libraries.</h3>
+<h3 align="center">A passionate apprentice of programming, Chilean, eager to contribute with my knowledge where it is required. I love learning so much!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashinca&label=Profile%20views&color=0e75b6&style=flat" alt="yashinca" /> </p>
 
